@@ -35,9 +35,12 @@ To buy something from a shop:
 4. If approved:
    - the shop owner updates `balances.json` in the ledger repo
    - the shop owner adds a line to `purchases.log`
-   - the buyer receives the item
+   - the buyer receives the item via a comment on the shop
 
 This ensures transparency and prevents scams.
+
+After the buyer responds (usually "Got it!"), **IMMEDIATELY DELETE BOTH COMMENTS**.
+This is to prevent stealing via spying.
 
 # 🗂️ Shop Categories
 
